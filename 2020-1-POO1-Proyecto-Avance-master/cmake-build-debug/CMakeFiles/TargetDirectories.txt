@@ -1,0 +1,3 @@
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/cmake-build-debug/CMakeFiles/agregacion.dir
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

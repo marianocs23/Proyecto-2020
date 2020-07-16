@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Menu.cpp
+tierra.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tierra.h
+Menu.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Menu.h
+Objeto.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Objeto.h
+iostream
+-
+string
+-
+cstdio
+-
+
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Menu.h
+limits
+-
+Tierra.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tierra.h
+Tipos.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tipos.h
+random
+-
+time.h
+-
+
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Objeto.h
+iostream
+-
+Tipos.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tipos.h
+Tierra.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tierra.h
+
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tierra.h
+iostream
+-
+vector
+-
+Tipos.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tipos.h
+Objeto.h
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Objeto.h
+
+C:/Users/Mariano/Documents/POO 2020-1/Proyecto/2020-1-POO1-Proyecto-Avance-master/2020-1-POO1-Proyecto-Avance-master/Tipos.h
+string
+-
+
